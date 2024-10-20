@@ -34,8 +34,8 @@ a {
 }
 
 ul {
-  display: flex;
   margin: 0;
   padding: 0;
+  display: flex;
   gap: 8px;
 }
